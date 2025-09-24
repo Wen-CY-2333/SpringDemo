@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+mrole:
+  name: admin
+  desc: 管理员
